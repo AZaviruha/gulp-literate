@@ -1,4 +1,4 @@
-# literify
+# gulp-literate
 
 Simple gulp plugin for [literate-programming-lib](https://github.com/jostylr/literate-programming-lib)
 
